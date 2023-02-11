@@ -44,6 +44,6 @@ Overall, the Pedaling towards Success: Analyzing Bike Stores Data project provid
 
 
 
-***Disclaimer
+***Disclaimer***
 
-Please note that the dataset used in this project is for demonstration purposes only and does not represent real-world data. The data was created solely for the purpose of showcasing the author's skills in SQL, Excel, and Tableau. Any similarities to real-world data are purely coincidental. The author takes no responsibility for the accuracy or reliability of the data used in this project.***
+Please note that the dataset used in this project is for demonstration purposes only and does not represent real-world data. The data was created solely for the purpose of showcasing the author's skills in SQL, Excel, and Tableau. Any similarities to real-world data are purely coincidental. The author takes no responsibility for the accuracy or reliability of the data used in this project.
