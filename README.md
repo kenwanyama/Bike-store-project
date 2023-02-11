@@ -37,6 +37,13 @@ However, there are limitations to this project, such as the relatively small dat
 Overall, the Pedaling towards Success: Analyzing Bike Stores Data project provides a solid foundation for further exploration of the bike store industry, and highlights the importance of data analysis and visualization in making informed business decisions.
 
 
-//Disclaimer
 
-Please note that the dataset used in this project is for demonstration purposes only and does not represent real-world data. The data was created solely for the purpose of showcasing the author's skills in SQL, Excel, and Tableau. Any similarities to real-world data are purely coincidental. The author takes no responsibility for the accuracy or reliability of the data used in this project.// 
+
+
+
+
+
+
+***Disclaimer
+
+Please note that the dataset used in this project is for demonstration purposes only and does not represent real-world data. The data was created solely for the purpose of showcasing the author's skills in SQL, Excel, and Tableau. Any similarities to real-world data are purely coincidental. The author takes no responsibility for the accuracy or reliability of the data used in this project.***
